@@ -21,8 +21,6 @@ The team would love nothing else to but see all your portfolios in full bloom up
 ### Portfolio Samples
 
 Check out portfolios that look awesome and emulate the parts that speak to you. Here are some that we like but you should google around and find stuff you're into.
-
- - [Pirate Cohort Portfolios](https://docs.google.com/spreadsheets/d/1r5sAr-cW6WjmpJoSx3KIqftFGzkQ3cdSEY-97PWqrLU/edit#gid=0)
  
  - [50 Inspiring Portfolio Web Sites](https://speckyboy.com/creative-portfolios-of-50-designers/)
 
@@ -37,6 +35,8 @@ Check out portfolios that look awesome and emulate the parts that speak to you. 
  - [helloaileen.com](http://helloaileen.com)
 
  - [lianapenn.com](https://www.lianapenn.com/)
+ 
+ - [Pirate Cohort Portfolios](https://docs.google.com/spreadsheets/d/1r5sAr-cW6WjmpJoSx3KIqftFGzkQ3cdSEY-97PWqrLU/edit#gid=0)
 
 
 ## 4) Computer Science On myGA - (Edits still in process, awaiting myGA access to same materials)
