@@ -15,8 +15,11 @@ Although General Assembly is out for winter break, it's _best_ y'all keep up tho
 - Read [Chapter 3](https://eloquentjavascript.net/03_functions.html) and complete relevant exercies within. 
 
 ## 3) Portfolio page 
-The team would love nothing else to but see all your portfolios in full bloom upon your return from break so we ask that you begin your refactor of your previous portfolio page into React.  We'd like you to take as least 5 previous assignments, including labs and hw's to include and demo on your site.  
+The team would _love_ to but see all of you tighten up your portfolios during the break! Here are some suggestions: 
 
+- add DOM maniuplation
+- tighten up styling
+- add a modal
 
 ### Portfolio Samples
 
