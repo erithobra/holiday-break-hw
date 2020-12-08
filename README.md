@@ -52,4 +52,6 @@ Being that you have already been introduced to Link Lists and Stacks/Queues, we'
 ![data-structures](https://res.cloudinary.com/jkeohan/image/upload/v1576873988/Screen_Shot_2019-12-20_at_3.32.47_PM_i9ya2k.png)
 
 ## BONUS) CSS Exercises
-- Pending
+- [Flexbox Froggy](https://flexboxfroggy.com/)
+- [CSS Zen Garden](http://www.csszengarden.com/)
+- [CSS Grid Garden](http://www.csszengarden.com/)
