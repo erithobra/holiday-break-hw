@@ -24,13 +24,9 @@ Check out portfolios that look awesome and emulate the parts that speak to you. 
  
  - [50 Inspiring Portfolio Web Sites](https://speckyboy.com/creative-portfolios-of-50-designers/)
 
- - [denisechandler.com](http://www.denisechandler.com/)
-
  - [mattfarely.ca](http://mattfarley.ca/)
 
  - [sebkay.com](http://sebkay.com/)
-
- - [imdev.in](https://imdev.in/)
 
  - [helloaileen.com](http://helloaileen.com)
 
