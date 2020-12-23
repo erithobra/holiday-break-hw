@@ -13,7 +13,6 @@ The deliverable for _each_ assignment task will be listed under each assignment 
 - Revisit [this video](https://generalassembly.zoom.us/rec/play/BU0sZNWQk_rhNQLgOne-Z4OTZTkHLuiKpqcxKeottptqD-wI0ktzeZf8kBtBDoEZiMmR7wuRkdCVApik.uP7s20BA5kfLhiNK?_x_zm_rhtaid=230&_x_zm_rtaid=33fKPMeORDaHmG7P4PM-_Q.1608089082639.240ac1097cd319104766bfe5c32a11c6&autoplay=true&continueMode=true&startTime=1608068325000) for a refresher on submitting an issue ticket. Issue tickets will be used when submitting:
 - links to a separate repository
 - screenshots
-- adding a file to your **forked** `holiday-break-hw` repo
 3. Screenshots
 In order to take a screenshot you need to use one of the following keystrokes:
 - `command + shift + 3` to capture **all** active screens (this includes any connected monitors).
