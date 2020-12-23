@@ -2,6 +2,8 @@
 
 Although General Assembly is out for winter break, it's _best_ y'all keep up those cool new skills you're developing! So, to keep you working towards your goals, we've put together some great material to keep you on top of what we've covered so you don't lose it! (Trust us when we say _it's not like riding a bike_.) Below is a list of _completely_ achievable assignments that we ask you to complete _before_ the start of class on **Monday, January 4th, 2021**.
 
+---
+
 ### Deliverables
 The deliverable for _each_ assignment task will be listed under each assignment description as the **deliverable**. Please be sure to follow the isntructions on submission of these deliverables to aid the instructional team in reviewing your submissions upon return from winter break. Many thanks in advance! 
 
@@ -19,6 +21,8 @@ In order to take a screenshot you need to use one of the following keystrokes:
 - `command + shift + 5` to select only the active _window_ you want to capture.
 4. Completed prompt documents
 - Answer any provided prompt documents and submit a link to the completed document. 
+
+---
 
 ## 1) 10 Days of JavaScript
 [10 Days of JavaScript](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript) is a great way to keep up with building your basic JavaScript skills. 
@@ -43,7 +47,7 @@ Let's practice your's object-oriented programming skills using [Geometry](https:
 - Exercies [Program Structure](https://eloquentjavascript.net/02_program_structure.html#h_TcUD2vzyMe)
 - Read [Chapter 3](https://eloquentjavascript.net/03_functions.html) and complete relevant exercies within. 
 - Exercises [Functions](https://eloquentjavascript.net/03_functions.html#h_TcUD2vzyMe)
-#### Deliverable - Complete prompt document
+#### Deliverable - Complete the [prompt document](https://git.generalassemb.ly/jd-seir-6/holiday-break-hw/blob/master/eloquent.js).
 
 ## 4) Portfolio page 
 The team would _love_ to but see all of you tighten up your portfolios during the break! Here are some suggestions: 
