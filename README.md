@@ -25,7 +25,8 @@ In order to take a screenshot you need to use one of the following keystrokes:
 #### Deliverable - Submit an Issue Ticket [here](https://git.generalassemb.ly/jd-seir-6/holiday-break-hw/issues) with a screenshot of your completed HackerRank challenges.
 - Issue Ticket format: **10 Days JS | Your Name**
 - For help on including files and screenshots on your issue tickets review please read the [docs](https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/file-attachments-on-issues-and-pull-requests).
-![Sample Screenshot](https://raw.githubusercontent.com/arsho/Hackerrank_Python_Domain_Solutions/master/Hackerrank_Python_Domain.png)
+![Sample Screenshot](https://i.imgur.com/wJ4bTCF.png)
+![Sample Screenshot](https://i.imgur.com/IPONb6a.png)
 
 ## 2) Geometry
 Let's practice your's object-oriented programming skills using [Geometry](https://git.generalassemb.ly/jd-seir-6/js-geometry)! 
