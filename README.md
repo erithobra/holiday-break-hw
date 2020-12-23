@@ -40,7 +40,9 @@ Let's practice your's object-oriented programming skills using [Geometry](https:
 - Read the [Introduction](https://eloquentjavascript.net/00_intro.html)
 - Read [Chapter 1](https://eloquentjavascript.net/01_values.html) and complete relevant exercies within. 
 - Read [Chapter 2](https://eloquentjavascript.net/02_program_structure.html) and complete relevant exercies within. 
+- Exercies [Program Structure](https://eloquentjavascript.net/02_program_structure.html#h_TcUD2vzyMe)
 - Read [Chapter 3](https://eloquentjavascript.net/03_functions.html) and complete relevant exercies within. 
+- Exercises [Functions](https://eloquentjavascript.net/03_functions.html#h_TcUD2vzyMe)
 #### Deliverable - Complete prompt document
 
 ## 4) Portfolio page 
@@ -75,24 +77,25 @@ Check out portfolios that look awesome and emulate the parts that speak to you. 
 
 General Assembly has put together _great_ reference material for Computer Science concepts which is available on your [my.generalassemb.ly](https://my.generalassemb.ly/) account.  It includes modules for: 
 
+- Introduction to Computer Science
 - Algorithms
 - Data Structures
 - Design Patterns
 
-Watch the content on the following topics:
-Intro to Computer Science 
+Watch **all** content on the following topics:
+1. Intro to Computer Science 
 - Watch all available content
-Data Structures
+2. Data Structures
 - Introduction to Data Structures
 - Linked Lists
 - Stacks and Queues
-Algorithms
+3. Algorithms
 - Introduction to Algorithms
 - Big O Notation
 
-![data-structures](https://res.cloudinary.com/jkeohan/image/upload/v1576873988/Screen_Shot_2019-12-20_at_3.32.47_PM_i9ya2k.png)
+![myGA-modules](https://i.imgur.com/bNIWcxI.png)
 
-#### Deliverable - Submit an Issue Ticket [here](https://git.generalassemb.ly/jd-seir-6/holiday-break-hw/issues) with a screenshot of _each_ your completed myGA modules.
+#### Deliverable - Submit an Issue Ticket [here](https://git.generalassemb.ly/jd-seir-6/holiday-break-hw/issues) with a screenshot of _each_ your completed myGA modules and sections.
 - Issue Ticket format: **myGA | Your Name**
 
 
