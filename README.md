@@ -76,7 +76,7 @@ Check out portfolios that look awesome and emulate the parts that speak to you. 
  - [Pirate Cohort Portfolios](https://docs.google.com/spreadsheets/d/1r5sAr-cW6WjmpJoSx3KIqftFGzkQ3cdSEY-97PWqrLU/edit#gid=0)
 
 
-## 5) Computer Science On myGA - (Edits still in process, awaiting myGA access to same materials)
+## 5) Computer Science On myGA
 
 General Assembly has put together _great_ reference material for Computer Science concepts which is available on your [my.generalassemb.ly](https://my.generalassemb.ly/) account.  It includes modules for: 
 
