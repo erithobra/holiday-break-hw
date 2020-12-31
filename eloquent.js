@@ -134,7 +134,7 @@ for (let i = 0; i < size; i++) {
 console.log(myString);
 
 
-console.log(board);
+//console.log(board);
 
 
 // Chapter 3 - Functions
