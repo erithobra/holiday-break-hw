@@ -6,19 +6,19 @@
 // ====================================== PROMPT ======================================
 // What is PROGRAMMING?
 ```
-ANSWER HERE
+"Programming is the act of constructing a program - a set of precise instructions telling a computer what to do."
 ```
 
 // ====================================== PROMPT ======================================
 // When was JavaScript introduced?
 ```
-ANSWER HERE
+"JavaScript was introduced in 1995 as a way to add programs to web pages in the Netscape Navigator browser."
 ```
 
 // ====================================== PROMPT ======================================
 // What is CODE?
 ```
-ANSWER HERE
+"Code is the text that makes up programs."
 ```
 
 // Chapter 1 - Values, Types, and Operators
@@ -26,7 +26,7 @@ ANSWER HERE
 // ====================================== PROMPT ======================================
 // What four types of JavaScript values were covered in Chapter 1?
 ```
-ANSWER HERE
+Numbers, Strings, Empty
 ```
 
 // Chapter 2 - Program Structure
