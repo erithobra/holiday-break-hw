@@ -26,7 +26,7 @@
 // ====================================== PROMPT ======================================
 // What four types of JavaScript values were covered in Chapter 1?
 ```
-Numbers, Strings, Empty
+Numbers, Strings, Booleans, Undefined
 ```
 
 // Chapter 2 - Program Structure
@@ -50,7 +50,10 @@ console.log(abc.length);
 
 // Provide your solution below
 
-
+let myString = null;
+for (myString = "#"; myString.length <= 7; myString += "#") {
+  console.log(myString);
+}
 
 // ====================================== PROMPT ======================================
 // FizzBuzz
@@ -67,6 +70,20 @@ console.log(abc.length);
 
 // Provide your solution below
 
+for (let i = 0; i <= 100; i++) {
+    if (i % 3 == 0 && i % 5 == 0) {
+      console.log("FizzBuzz");
+    }
+    if (i % 3 == 0 && i % 5 > 0) {
+      console.log("Fizz");
+    }
+    if (i % 3 > 0 && i % 5 == 0) {
+      console.log("Buzz");
+    }
+    if (i % 3 > 0 && i % 5 > 0) {
+        console.log(i);
+    }
+  }
 
 // ====================================== PROMPT ======================================
 // Chessboard
@@ -90,6 +107,31 @@ console.log(abc.length);
 // outputting a grid of the given width and height.
 
 // Provide your solution below
+
+let size = 8;
+let char1 = " ";
+let char2 = "#";
+let myString = "";
+
+for (let i = 0; i < size; i++) {
+  for (let j = 0; j < size; j++) {
+    if (i % 2 == 0) {
+    char1 = " ";
+    char2 = "#";
+  	} else if (i % 2 > 0) {
+    char1 = "#";
+    char2 = " ";
+  	}
+	if (j % 2 == 0) {
+      myString += char1;
+    } else if (j % 2 > 0) {
+      myString += char2;
+    }
+  }
+  myString += "\n";
+}         
+
+console.log(myString);
 
 
 console.log(board);
