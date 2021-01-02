@@ -145,7 +145,11 @@ console.log(myString);
 // We can build something like that now. Write a function min that takes two arguments and returns their minimum.
 
 // Your code here.
-
+const min = function(x, y) {
+    if (x < y) {
+      return x;
+    } return y;
+  }
 
 console.log(min(0, 10));
 // → 0
@@ -169,6 +173,21 @@ console.log(min(0, -10));
 
 // Your code here.
 
+function isEven(x) {
+    if (x < 0) {
+      x = x * (-1);
+    }
+    function zeroCheck(current) {
+      if (current == 0) {
+        return true;
+      } else if (current == 1) {
+        return false;
+      } else {
+        return zeroCheck(current - 2);
+      }
+     }
+    return zeroCheck(x);
+  }
 
 console.log(isEven(50));
 // → true
@@ -192,7 +211,19 @@ console.log(isEven(-1));
 // (rather than counting only uppercase “B” characters). Rewrite countBs to make use of this new function.
 
 // Your code here.
-
+const countBs = function(string) {
+    return countChar(string, "B");
+  }
+  
+  const countChar = function(string, char) {
+    let count = 0;
+    for (let i = 0; i < string.length; i++) {
+      if (string[i] == char) {
+        count += 1;
+      }
+    }
+    return count;
+  }
 
 console.log(countBs("BBC"));
 // → 2
